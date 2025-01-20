@@ -1,6 +1,5 @@
 <script setup>
 import LayoutSection from './Layout/LayoutSection.vue';
-
 </script>
 
 <template>
