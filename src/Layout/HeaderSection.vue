@@ -11,7 +11,8 @@ import { RouterLink } from 'vue-router'
           </div>
           <nav class="space-x-4">
             <RouterLink to="/" class="text-lg hover:text-blue-600">Home</RouterLink>
-            <RouterLink to="/about" class="text-lg hover:text-blue-600">About</RouterLink>
+            <!-- <RouterLink to="/about" class="text-lg hover:text-blue-600">About</RouterLink> -->
+            <RouterLink to="/task-board" class="text-lg hover:text-blue-600">Task Board</RouterLink>
           </nav>
         </div>
       </div>
